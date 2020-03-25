@@ -14,7 +14,7 @@ namespace TA_VS12
             {
                 SerialPort S = new SerialPort("COM3", 9600);
                 Thread.Sleep(2000);
-                Thread.Sleep(9000);
+                Thread.Sleep(15000);
                 S.Open();
             }
             catch (Exception ex)

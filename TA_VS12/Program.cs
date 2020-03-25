@@ -12,14 +12,25 @@ namespace TA_VS12
         {
             try
             {
-                SerialPort S = new SerialPort("COM3", 9600);
-                Thread.Sleep(2000);
-                Thread.Sleep(15000);
+                SerialPort S = new SerialPort("COM4", 9600);
                 S.Open();
+                Thread.Sleep(2000);
+                string s = S.ReadExisting();
+                if (s.Contains("Nikhil Naik"))
+                {
+                    Console.WriteLine("Pass");
+                }
+                else
+                {
+                    Console.WriteLine("Fail");
+                }
+                Thread.Sleep(10000);
+                S.Close();
             }
             catch (Exception ex)
             {
                 Console.WriteLine(ex.ToString());
+                Thread.Sleep(10000);
             }
             
         }

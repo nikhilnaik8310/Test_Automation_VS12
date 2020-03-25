@@ -9,8 +9,15 @@ namespace TA_VS12
     {
         static void Main(string[] args)
         {
-            SerialPort S = new SerialPort("COM3",9600);
-            S.Open();
+            try
+            {
+                SerialPort S = new SerialPort("COM3", 9600);
+                S.Open();
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex.ToString());
+            }
             
         }
     }

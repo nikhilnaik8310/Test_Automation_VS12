@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.IO.Ports;
 using System.Text;
+using System.Threading;
 
 namespace TA_VS12
 {
@@ -12,6 +13,7 @@ namespace TA_VS12
             try
             {
                 SerialPort S = new SerialPort("COM3", 9600);
+                Thread.Sleep(2000);
                 S.Open();
             }
             catch (Exception ex)

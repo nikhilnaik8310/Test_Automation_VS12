@@ -5,3 +5,10 @@ c:\users\nikhil naik\documents\visual studio 2012\Projects\TA_VS12\TA_VS12\bin\D
 c:\users\nikhil naik\documents\visual studio 2012\Projects\TA_VS12\TA_VS12\obj\Debug\TA_VS12.csprojResolveAssemblyReference.cache
 c:\users\nikhil naik\documents\visual studio 2012\Projects\TA_VS12\TA_VS12\obj\Debug\TA_VS12.exe
 c:\users\nikhil naik\documents\visual studio 2012\Projects\TA_VS12\TA_VS12\obj\Debug\TA_VS12.pdb
+C:\git_repo\TA_VS12\Test_Automation_VS12\TA_VS12\bin\Debug\TA_VS12.exe.config
+C:\git_repo\TA_VS12\Test_Automation_VS12\TA_VS12\bin\Debug\TA_VS12.XML
+C:\git_repo\TA_VS12\Test_Automation_VS12\TA_VS12\obj\Debug\TA_VS12.exe
+C:\git_repo\TA_VS12\Test_Automation_VS12\TA_VS12\obj\Debug\TA_VS12.pdb
+C:\git_repo\TA_VS12\Test_Automation_VS12\TA_VS12\bin\Debug\TA_VS12.exe
+C:\git_repo\TA_VS12\Test_Automation_VS12\TA_VS12\bin\Debug\TA_VS12.pdb
+C:\git_repo\TA_VS12\Test_Automation_VS12\TA_VS12\obj\Debug\TA_VS12.csprojResolveAssemblyReference.cache

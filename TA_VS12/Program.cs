@@ -24,13 +24,13 @@ namespace TA_VS12
                 {
                     Console.WriteLine("FAIL"); //@@ If Not Equel Fail.
                 }
-                Thread.Sleep(10000);
+                //Thread.Sleep(10000);
                 S.Close(); //@ Step 5: //@@ Close Serial Port.
             }
             catch (Exception ex)
             {
                 Console.WriteLine(ex.ToString());
-                Thread.Sleep(10000);
+                //Thread.Sleep(10000);
             }
             
         }

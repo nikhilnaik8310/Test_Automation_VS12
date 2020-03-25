@@ -1,0 +1,5 @@
+c:\users\nikhil naik\documents\visual studio 2012\Projects\TA_VS12\TA_VS12\bin\Release\TA_VS12.exe.config
+c:\users\nikhil naik\documents\visual studio 2012\Projects\TA_VS12\TA_VS12\bin\Release\TA_VS12.exe
+c:\users\nikhil naik\documents\visual studio 2012\Projects\TA_VS12\TA_VS12\bin\Release\TA_VS12.pdb
+c:\users\nikhil naik\documents\visual studio 2012\Projects\TA_VS12\TA_VS12\obj\Release\TA_VS12.exe
+c:\users\nikhil naik\documents\visual studio 2012\Projects\TA_VS12\TA_VS12\obj\Release\TA_VS12.pdb

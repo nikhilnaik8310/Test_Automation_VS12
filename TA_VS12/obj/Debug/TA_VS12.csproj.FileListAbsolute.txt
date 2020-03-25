@@ -11,3 +11,5 @@ C:\git_repo\TA_VS12\Test_Automation_VS12\TA_VS12\obj\Debug\TA_VS12.exe
 C:\git_repo\TA_VS12\Test_Automation_VS12\TA_VS12\obj\Debug\TA_VS12.pdb
 C:\git_repo\TA_VS12\Test_Automation_VS12\TA_VS12\bin\Debug\TA_VS12.exe
 C:\git_repo\TA_VS12\Test_Automation_VS12\TA_VS12\bin\Debug\TA_VS12.pdb
+C:\git_repo\TA_VS12\Test_Automation_VS12\TA_VS12\obj\Debug\RdlCompile.cache
+C:\git_repo\TA_VS12\Test_Automation_VS12\TA_VS12\obj\Debug\RdlCompile.compiled

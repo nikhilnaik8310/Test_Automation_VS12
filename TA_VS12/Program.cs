@@ -1,0 +1,16 @@
+﻿using System;
+using System.Collections.Generic;
+using System.IO.Ports;
+using System.Text;
+
+namespace TA_VS12
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            SerialPort S = new SerialPort();
+            
+        }
+    }
+}

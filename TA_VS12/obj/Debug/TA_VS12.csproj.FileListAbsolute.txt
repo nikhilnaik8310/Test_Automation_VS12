@@ -1,0 +1,7 @@
+c:\users\nikhil naik\documents\visual studio 2012\Projects\TA_VS12\TA_VS12\bin\Debug\TA_VS12.exe.config
+c:\users\nikhil naik\documents\visual studio 2012\Projects\TA_VS12\TA_VS12\bin\Debug\TA_VS12.XML
+c:\users\nikhil naik\documents\visual studio 2012\Projects\TA_VS12\TA_VS12\bin\Debug\TA_VS12.exe
+c:\users\nikhil naik\documents\visual studio 2012\Projects\TA_VS12\TA_VS12\bin\Debug\TA_VS12.pdb
+c:\users\nikhil naik\documents\visual studio 2012\Projects\TA_VS12\TA_VS12\obj\Debug\TA_VS12.csprojResolveAssemblyReference.cache
+c:\users\nikhil naik\documents\visual studio 2012\Projects\TA_VS12\TA_VS12\obj\Debug\TA_VS12.exe
+c:\users\nikhil naik\documents\visual studio 2012\Projects\TA_VS12\TA_VS12\obj\Debug\TA_VS12.pdb

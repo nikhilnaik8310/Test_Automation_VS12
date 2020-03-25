@@ -14,7 +14,7 @@ namespace TA_VS12
             {
                 SerialPort S = new SerialPort("COM4", 9600); //@ Step 1: //@@ Set Communication Port
                 S.Open(); //@Step2: //@@ Open Serial port 
-                Thread.Sleep(5000);
+                Thread.Sleep(6000);
                 string s = S.ReadExisting(); //@Step 3: //@@ Read Serial port 
                 if (s.Contains("Nikhil Naik")) //@ Step 4: //@@ Verify Data
                 {

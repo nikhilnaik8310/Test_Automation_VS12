@@ -16,9 +16,11 @@ namespace TA_VS12
             {
                 SerialPort S = new SerialPort("COM4", 9600); //@ Step 1: //@@ Set Communication Port
                 S.Open(); //@Step2: //@@ Open Serial port 
-                Thread.Sleep(1000);
+                Thread.Sleep(5000);
                 string s = S.ReadExisting(); //@Step 3: //@@ Read Serial port 
-                if (s.Contains("Nikhil Naik")) //@ Step 4: //@@ Verify Data
+
+
+                if (s.Contains("10101")|| s.Contains("01010")) //@ Step 4: //@@ Verify Data
                 {
                     Console.WriteLine("PASS"); //@@ If Equel Pass.
                 }

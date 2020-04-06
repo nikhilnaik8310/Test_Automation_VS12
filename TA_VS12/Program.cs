@@ -15,7 +15,7 @@ namespace TA_VS12
                 SerialPort S = new SerialPort("COM4", 9600); //@ Step 1: //@@ Set Communication Port
                 S.Open(); //@@ ECU is connected.
                 //@@ Unable to observe Red “LED” power up
-                Thread.Sleep(5000);//@Step 2: //@@ Wait till appliance state. 
+                Thread.Sleep(5000);//@ Step 2: //@@ Wait till appliance state. 
                 string s = S.ReadExisting();  
                 if (s.Contains("10101")|| s.Contains("01010"))//@ Step 3: //@@ Observe LED behavior
                 {

@@ -13,3 +13,10 @@ C:\git_repo\TA_VS12\Test_Automation_VS12\TA_VS12\obj\Debug\TA_VS12.csprojAssembl
 C:\git_repo\TA_VS12\Test_Automation_VS12\TA_VS12\obj\Debug\TA_VS12.csproj.CoreCompileInputs.cache
 C:\git_repo\TA_VS12\Test_Automation_VS12\TA_VS12\obj\Debug\TA_VS12.exe
 C:\git_repo\TA_VS12\Test_Automation_VS12\TA_VS12\obj\Debug\TA_VS12.pdb
+C:\git_repo\TA2020\Test_Automation_VS12\TA_VS12\bin\Debug\TA_VS12.exe.config
+C:\git_repo\TA2020\Test_Automation_VS12\TA_VS12\bin\Debug\TA_VS12.XML
+C:\git_repo\TA2020\Test_Automation_VS12\TA_VS12\obj\Debug\TA_VS12.exe
+C:\git_repo\TA2020\Test_Automation_VS12\TA_VS12\obj\Debug\TA_VS12.pdb
+C:\git_repo\TA2020\Test_Automation_VS12\TA_VS12\bin\Debug\TA_VS12.exe
+C:\git_repo\TA2020\Test_Automation_VS12\TA_VS12\bin\Debug\TA_VS12.pdb
+C:\git_repo\TA2020\Test_Automation_VS12\TA_VS12\obj\Debug\TA_VS12.csprojResolveAssemblyReference.cache

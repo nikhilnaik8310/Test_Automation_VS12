@@ -12,7 +12,7 @@ namespace TA_VS12
         {
             try
             {
-                //SerialPort S = new SerialPort("COM4", 9600); //@ Step 1: //@@ Set Communication Port
+                SerialPort S = new SerialPort("COM4", 9600); //@ Step 1: //@@ Set Communication Port
                 S.Open(); //@@ ECU is connected.
                 //@@ Unable to observe Red “LED” power up
                 Thread.Sleep(5000);//@ Step 2: //@@ Wait till appliance state. 
